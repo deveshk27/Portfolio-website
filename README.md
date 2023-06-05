@@ -1,1 +1,1 @@
-A portfolio website to list the details and projects developed. 
+A portfolio website to list personal details and projects developed. 
